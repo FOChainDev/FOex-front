@@ -1,0 +1,158 @@
+{
+  "data": [
+    {
+      "data": {
+        "stringId": 111,
+        "text": "지갑"
+      }
+    },
+    {
+      "data": {
+        "stringId": 112,
+        "text": "농장"
+      }
+    },
+    {
+      "data": {
+        "stringId": 113,
+        "text": "투표"
+      }
+    },
+    {
+      "data": {
+        "stringId": 116,
+        "text": "교환"
+      }
+    },
+    {
+      "data": {
+        "stringId": 117,
+        "text": "FOC 잔액"
+      }
+    },
+    {
+      "data": {
+        "stringId": 118,
+        "text": "HecoScan에서보기"
+      }
+    },
+    {
+      "data": {
+        "stringId": 180,
+        "text": "통화를 선택하세요"
+      }
+    },
+    {
+      "data": {
+        "stringId": 182,
+        "text": "교환"
+      }
+    },
+    {
+      "data": {
+        "stringId": 184,
+        "text": "유동성"
+      }
+    },
+    {
+      "data": {
+        "stringId": 186,
+        "text": "토큰 선택"
+      }
+    },
+    {
+      "data": {
+        "stringId": 119,
+        "text": "출구"
+      }
+    },
+    {
+      "data": {
+        "stringId": 188,
+        "text": "토큰 이름"
+      }
+    },
+    {
+      "data": {
+        "stringId": 190,
+        "text": "거래 설정"
+      }
+    },
+    {
+      "data": {
+        "stringId": 192,
+        "text": "인터페이스 설정"
+      }
+    },
+    {
+      "data": {
+        "stringId": 194,
+        "text": "오디오 모드 전환"
+      }
+    },
+    {
+      "data": {
+        "stringId": 196,
+        "text": "미끄러짐 공차"
+      }
+    },
+    {
+      "data": {
+        "stringId": 198,
+        "text": "거래 마감"
+      }
+    },
+    {
+      "data": {
+        "stringId": 202,
+        "text": "유동성 추가"
+      }
+    },
+    {
+      "data": {
+        "stringId": 204,
+        "text": "유동성"
+      }
+    },
+    {
+      "data": {
+        "stringId": 206,
+        "text": "유동성이 없습니다."
+      }
+    },
+    {
+      "data": {
+        "stringId": 210,
+        "text": "금액을 입력하세요."
+      }
+    },
+    {
+      "data": {
+        "stringId": 218,
+        "text": "가입 한 풀이 보이지 않습니까?"
+      }
+    },
+    {
+      "data": {
+        "stringId": 220,
+        "text": "그것을 가져옵니다."
+      }
+    },
+    {
+      "data": {
+        "stringId": 222,
+        "text": "에서"
+      }
+    },
+    {
+      "data": {
+        "stringId": 224,
+        "text": "에"
+      }
+    }
+  ],
+  "pagination": {
+    "offset": 0,
+    "limit": 200
+  }
+}

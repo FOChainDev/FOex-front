@@ -1,0 +1,158 @@
+{
+  "data": [
+    {
+      "data": {
+        "stringId": 111,
+        "text": "Tvoje peněženka"
+      }
+    },
+    {
+      "data": {
+        "stringId": 112,
+        "text": "Farma"
+      }
+    },
+    {
+      "data": {
+        "stringId": 113,
+        "text": "Hlasování"
+      }
+    },
+    {
+      "data": {
+        "stringId": 116,
+        "text": "Výměna"
+      }
+    },
+    {
+      "data": {
+        "stringId": 117,
+        "text": "Váš zůstatek FOC"
+      }
+    },
+    {
+      "data": {
+        "stringId": 118,
+        "text": "Zobrazit na HecoScan"
+      }
+    },
+    {
+      "data": {
+        "stringId": 180,
+        "text": "Vyberte měnu"
+      }
+    },
+    {
+      "data": {
+        "stringId": 182,
+        "text": "Zaměnit"
+      }
+    },
+    {
+      "data": {
+        "stringId": 184,
+        "text": "Likvidita"
+      }
+    },
+    {
+      "data": {
+        "stringId": 186,
+        "text": "Vyberte token"
+      }
+    },
+    {
+      "data": {
+        "stringId": 119,
+        "text": "Výstup"
+      }
+    },
+    {
+      "data": {
+        "stringId": 188,
+        "text": "Název tokenu"
+      }
+    },
+    {
+      "data": {
+        "stringId": 190,
+        "text": "Nastavení transakce"
+      }
+    },
+    {
+      "data": {
+        "stringId": 192,
+        "text": "Nastavení rozhraní"
+      }
+    },
+    {
+      "data": {
+        "stringId": 194,
+        "text": "Přepnout režim zvuku"
+      }
+    },
+    {
+      "data": {
+        "stringId": 196,
+        "text": "Tolerance skluzu"
+      }
+    },
+    {
+      "data": {
+        "stringId": 198,
+        "text": "Termín transakce"
+      }
+    },
+    {
+      "data": {
+        "stringId": 202,
+        "text": "Přidejte likviditu"
+      }
+    },
+    {
+      "data": {
+        "stringId": 204,
+        "text": "Vaše likvidita"
+      }
+    },
+    {
+      "data": {
+        "stringId": 206,
+        "text": "Nebyla nalezena likvidita."
+      }
+    },
+    {
+      "data": {
+        "stringId": 210,
+        "text": "Zadejte částku"
+      }
+    },
+    {
+      "data": {
+        "stringId": 218,
+        "text": "Nevidíte bazén, ke kterému jste se připojili?"
+      }
+    },
+    {
+      "data": {
+        "stringId": 220,
+        "text": "Importujte to."
+      }
+    },
+    {
+      "data": {
+        "stringId": 222,
+        "text": "Z"
+      }
+    },
+    {
+      "data": {
+        "stringId": 224,
+        "text": "Na"
+      }
+    }
+  ],
+  "pagination": {
+    "offset": 0,
+    "limit": 200
+  }
+}

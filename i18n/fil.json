@@ -1,0 +1,158 @@
+{
+  "data": [
+    {
+      "data": {
+        "stringId": 111,
+        "text": "Iyong pitaka"
+      }
+    },
+    {
+      "data": {
+        "stringId": 112,
+        "text": "Sakahan"
+      }
+    },
+    {
+      "data": {
+        "stringId": 113,
+        "text": "Bumoto"
+      }
+    },
+    {
+      "data": {
+        "stringId": 116,
+        "text": "Palitan"
+      }
+    },
+    {
+      "data": {
+        "stringId": 117,
+        "text": "Iyong Balanse ng FOC"
+      }
+    },
+    {
+      "data": {
+        "stringId": 118,
+        "text": "Tingnan sa HecoScan"
+      }
+    },
+    {
+      "data": {
+        "stringId": 180,
+        "text": "Pumili ng Pera"
+      }
+    },
+    {
+      "data": {
+        "stringId": 182,
+        "text": "Ipagpalit"
+      }
+    },
+    {
+      "data": {
+        "stringId": 184,
+        "text": "Pagkatubig"
+      }
+    },
+    {
+      "data": {
+        "stringId": 186,
+        "text": "Pumili ng isang Token"
+      }
+    },
+    {
+      "data": {
+        "stringId": 119,
+        "text": "Lumabas"
+      }
+    },
+    {
+      "data": {
+        "stringId": 188,
+        "text": "Pangalan ng Token"
+      }
+    },
+    {
+      "data": {
+        "stringId": 190,
+        "text": "Mga Setting ng Transaksyon"
+      }
+    },
+    {
+      "data": {
+        "stringId": 192,
+        "text": "Mga Setting ng Interface"
+      }
+    },
+    {
+      "data": {
+        "stringId": 194,
+        "text": "I-toggle ang Audio Mode"
+      }
+    },
+    {
+      "data": {
+        "stringId": 196,
+        "text": "Pagpaparaya ng Slippage"
+      }
+    },
+    {
+      "data": {
+        "stringId": 198,
+        "text": "Ang deadline ng transaksyon"
+      }
+    },
+    {
+      "data": {
+        "stringId": 202,
+        "text": "Magdagdag ng Liquidity"
+      }
+    },
+    {
+      "data": {
+        "stringId": 204,
+        "text": "Ang iyong Likido"
+      }
+    },
+    {
+      "data": {
+        "stringId": 206,
+        "text": "Walang natagpuang pagkatubig."
+      }
+    },
+    {
+      "data": {
+        "stringId": 210,
+        "text": "Maglagay ng isang halaga"
+      }
+    },
+    {
+      "data": {
+        "stringId": 218,
+        "text": "Hindi mo nakikita ang isang pool na sumali ka?"
+      }
+    },
+    {
+      "data": {
+        "stringId": 220,
+        "text": "I-import ito"
+      }
+    },
+    {
+      "data": {
+        "stringId": 222,
+        "text": "Mula sa"
+      }
+    },
+    {
+      "data": {
+        "stringId": 224,
+        "text": "Sa"
+      }
+    }
+  ],
+  "pagination": {
+    "offset": 0,
+    "limit": 200
+  }
+}

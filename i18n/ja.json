@@ -1,0 +1,158 @@
+{
+  "data": [
+    {
+      "data": {
+        "stringId": 111,
+        "text": "あなたの財布"
+      }
+    },
+    {
+      "data": {
+        "stringId": 112,
+        "text": "ファーム"
+      }
+    },
+    {
+      "data": {
+        "stringId": 113,
+        "text": "投票"
+      }
+    },
+    {
+      "data": {
+        "stringId": 116,
+        "text": "両替"
+      }
+    },
+    {
+      "data": {
+        "stringId": 117,
+        "text": "あなたのFOCバランス"
+      }
+    },
+    {
+      "data": {
+        "stringId": 118,
+        "text": "HecoScanで表示"
+      }
+    },
+    {
+      "data": {
+        "stringId": 180,
+        "text": "通貨を選択してください"
+      }
+    },
+    {
+      "data": {
+        "stringId": 182,
+        "text": "スワップ"
+      }
+    },
+    {
+      "data": {
+        "stringId": 184,
+        "text": "流動性"
+      }
+    },
+    {
+      "data": {
+        "stringId": 186,
+        "text": "トークンを選択してください"
+      }
+    },
+    {
+      "data": {
+        "stringId": 119,
+        "text": "出口"
+      }
+    },
+    {
+      "data": {
+        "stringId": 188,
+        "text": "トークン名"
+      }
+    },
+    {
+      "data": {
+        "stringId": 190,
+        "text": "トランザクション設定"
+      }
+    },
+    {
+      "data": {
+        "stringId": 192,
+        "text": "インターフェース設定"
+      }
+    },
+    {
+      "data": {
+        "stringId": 194,
+        "text": "オーディオモードの切り替え"
+      }
+    },
+    {
+      "data": {
+        "stringId": 196,
+        "text": "スリッページ許容値"
+      }
+    },
+    {
+      "data": {
+        "stringId": 198,
+        "text": "取引期限"
+      }
+    },
+    {
+      "data": {
+        "stringId": 202,
+        "text": "流動性を追加する"
+      }
+    },
+    {
+      "data": {
+        "stringId": 204,
+        "text": "あなたの流動性"
+      }
+    },
+    {
+      "data": {
+        "stringId": 206,
+        "text": "流動性は見つかりませんでした。"
+      }
+    },
+    {
+      "data": {
+        "stringId": 210,
+        "text": "金額を入力してください"
+      }
+    },
+    {
+      "data": {
+        "stringId": 218,
+        "text": "参加したプールが表示されませんか？"
+      }
+    },
+    {
+      "data": {
+        "stringId": 220,
+        "text": "インポートします。"
+      }
+    },
+    {
+      "data": {
+        "stringId": 222,
+        "text": "から"
+      }
+    },
+    {
+      "data": {
+        "stringId": 224,
+        "text": "に"
+      }
+    }
+  ],
+  "pagination": {
+    "offset": 0,
+    "limit": 200
+  }
+}

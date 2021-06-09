@@ -1,0 +1,158 @@
+{
+  "data": [
+    {
+      "data": {
+        "stringId": 111,
+        "text": "Tu billetera"
+      }
+    },
+    {
+      "data": {
+        "stringId": 112,
+        "text": "Granja"
+      }
+    },
+    {
+      "data": {
+        "stringId": 113,
+        "text": "Votar"
+      }
+    },
+    {
+      "data": {
+        "stringId": 116,
+        "text": "Intercambio"
+      }
+    },
+    {
+      "data": {
+        "stringId": 117,
+        "text": "Tu saldo FOC"
+      }
+    },
+    {
+      "data": {
+        "stringId": 118,
+        "text": "Ver en HecoScan"
+      }
+    },
+    {
+      "data": {
+        "stringId": 180,
+        "text": "Elija una moneda"
+      }
+    },
+    {
+      "data": {
+        "stringId": 182,
+        "text": "Intercambio"
+      }
+    },
+    {
+      "data": {
+        "stringId": 184,
+        "text": "Liquidez"
+      }
+    },
+    {
+      "data": {
+        "stringId": 186,
+        "text": "Elige un token"
+      }
+    },
+    {
+      "data": {
+        "stringId": 119,
+        "text": "Salida"
+      }
+    },
+    {
+      "data": {
+        "stringId": 188,
+        "text": "Nombre del token"
+      }
+    },
+    {
+      "data": {
+        "stringId": 190,
+        "text": "Configuración de transacciones"
+      }
+    },
+    {
+      "data": {
+        "stringId": 192,
+        "text": "Configuración de la interfaz"
+      }
+    },
+    {
+      "data": {
+        "stringId": 194,
+        "text": "Alternar modo de audio"
+      }
+    },
+    {
+      "data": {
+        "stringId": 196,
+        "text": "Tolerancia al deslizamiento"
+      }
+    },
+    {
+      "data": {
+        "stringId": 198,
+        "text": "Fecha límite de transacción"
+      }
+    },
+    {
+      "data": {
+        "stringId": 202,
+        "text": "Agregar liquidez"
+      }
+    },
+    {
+      "data": {
+        "stringId": 204,
+        "text": "Tu liquidez"
+      }
+    },
+    {
+      "data": {
+        "stringId": 206,
+        "text": "No se encontró liquidez."
+      }
+    },
+    {
+      "data": {
+        "stringId": 210,
+        "text": "Ingrese una cantidad"
+      }
+    },
+    {
+      "data": {
+        "stringId": 218,
+        "text": "¿No ves un grupo al que te uniste?"
+      }
+    },
+    {
+      "data": {
+        "stringId": 220,
+        "text": "Importarlo."
+      }
+    },
+    {
+      "data": {
+        "stringId": 222,
+        "text": "De"
+      }
+    },
+    {
+      "data": {
+        "stringId": 224,
+        "text": "A"
+      }
+    }
+  ],
+  "pagination": {
+    "offset": 0,
+    "limit": 200
+  }
+}

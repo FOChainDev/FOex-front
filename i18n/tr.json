@@ -1,0 +1,158 @@
+{
+  "data": [
+    {
+      "data": {
+        "stringId": 111,
+        "text": "Cüzdanın"
+      }
+    },
+    {
+      "data": {
+        "stringId": 112,
+        "text": "Çiftlik"
+      }
+    },
+    {
+      "data": {
+        "stringId": 113,
+        "text": "Oy"
+      }
+    },
+    {
+      "data": {
+        "stringId": 116,
+        "text": "Değiş tokuş"
+      }
+    },
+    {
+      "data": {
+        "stringId": 117,
+        "text": "FOC Bakiyeniz"
+      }
+    },
+    {
+      "data": {
+        "stringId": 118,
+        "text": "HecoScan üzerinde görüntüle"
+      }
+    },
+    {
+      "data": {
+        "stringId": 180,
+        "text": "Para Birimi Seçin"
+      }
+    },
+    {
+      "data": {
+        "stringId": 182,
+        "text": "Takas"
+      }
+    },
+    {
+      "data": {
+        "stringId": 184,
+        "text": "Likidite"
+      }
+    },
+    {
+      "data": {
+        "stringId": 186,
+        "text": "Bir Jeton Seçin"
+      }
+    },
+    {
+      "data": {
+        "stringId": 119,
+        "text": "çıkış"
+      }
+    },
+    {
+      "data": {
+        "stringId": 188,
+        "text": "Token Adı"
+      }
+    },
+    {
+      "data": {
+        "stringId": 190,
+        "text": "İşlem Ayarları"
+      }
+    },
+    {
+      "data": {
+        "stringId": 192,
+        "text": "Arayüz Ayarları"
+      }
+    },
+    {
+      "data": {
+        "stringId": 194,
+        "text": "Ses Modunu Değiştir"
+      }
+    },
+    {
+      "data": {
+        "stringId": 196,
+        "text": "Kayma Toleransı"
+      }
+    },
+    {
+      "data": {
+        "stringId": 198,
+        "text": "İşlem son tarihi"
+      }
+    },
+    {
+      "data": {
+        "stringId": 202,
+        "text": "Likidite Ekle"
+      }
+    },
+    {
+      "data": {
+        "stringId": 204,
+        "text": "Likiditeniz"
+      }
+    },
+    {
+      "data": {
+        "stringId": 206,
+        "text": "Likidite bulunamadı."
+      }
+    },
+    {
+      "data": {
+        "stringId": 210,
+        "text": "Bir miktar girin"
+      }
+    },
+    {
+      "data": {
+        "stringId": 218,
+        "text": "Katıldığınız bir havuzu görmüyor musunuz?"
+      }
+    },
+    {
+      "data": {
+        "stringId": 220,
+        "text": "İçeri aktarın."
+      }
+    },
+    {
+      "data": {
+        "stringId": 222,
+        "text": "Nereden"
+      }
+    },
+    {
+      "data": {
+        "stringId": 224,
+        "text": "İçin"
+      }
+    }
+  ],
+  "pagination": {
+    "offset": 0,
+    "limit": 200
+  }
+}

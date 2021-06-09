@@ -1,0 +1,158 @@
+{
+  "data": [
+    {
+      "data": {
+        "stringId": 111,
+        "text": "Ví của bạn"
+      }
+    },
+    {
+      "data": {
+        "stringId": 112,
+        "text": "Nông trại"
+      }
+    },
+    {
+      "data": {
+        "stringId": 113,
+        "text": "Bỏ phiếu"
+      }
+    },
+    {
+      "data": {
+        "stringId": 116,
+        "text": "Đổi"
+      }
+    },
+    {
+      "data": {
+        "stringId": 117,
+        "text": "Số dư FOC của bạn"
+      }
+    },
+    {
+      "data": {
+        "stringId": 118,
+        "text": "Xem trên HecoScan"
+      }
+    },
+    {
+      "data": {
+        "stringId": 180,
+        "text": "Chọn một loại tiền tệ"
+      }
+    },
+    {
+      "data": {
+        "stringId": 182,
+        "text": "Hoán đổi"
+      }
+    },
+    {
+      "data": {
+        "stringId": 184,
+        "text": "Tính thanh khoản"
+      }
+    },
+    {
+      "data": {
+        "stringId": 186,
+        "text": "Chọn một mã thông báo"
+      }
+    },
+    {
+      "data": {
+        "stringId": 119,
+        "text": "Lối ra"
+      }
+    },
+    {
+      "data": {
+        "stringId": 188,
+        "text": "Tên mã thông báo"
+      }
+    },
+    {
+      "data": {
+        "stringId": 190,
+        "text": "Cài đặt giao dịch"
+      }
+    },
+    {
+      "data": {
+        "stringId": 192,
+        "text": "Cài đặt giao diện"
+      }
+    },
+    {
+      "data": {
+        "stringId": 194,
+        "text": "Chuyển đổi chế độ âm thanh"
+      }
+    },
+    {
+      "data": {
+        "stringId": 196,
+        "text": "Khả năng chịu trượt"
+      }
+    },
+    {
+      "data": {
+        "stringId": 198,
+        "text": "Thời hạn giao dịch"
+      }
+    },
+    {
+      "data": {
+        "stringId": 202,
+        "text": "Thêm thanh khoản"
+      }
+    },
+    {
+      "data": {
+        "stringId": 204,
+        "text": "Tính thanh khoản của bạn"
+      }
+    },
+    {
+      "data": {
+        "stringId": 206,
+        "text": "Không tìm thấy thanh khoản."
+      }
+    },
+    {
+      "data": {
+        "stringId": 210,
+        "text": "Nhập số tiền"
+      }
+    },
+    {
+      "data": {
+        "stringId": 218,
+        "text": "Không thấy nhóm bạn đã tham gia?"
+      }
+    },
+    {
+      "data": {
+        "stringId": 220,
+        "text": "Nhập nó."
+      }
+    },
+    {
+      "data": {
+        "stringId": 222,
+        "text": "Từ"
+      }
+    },
+    {
+      "data": {
+        "stringId": 224,
+        "text": "Đến"
+      }
+    }
+  ],
+  "pagination": {
+    "offset": 0,
+    "limit": 200
+  }
+}

@@ -1,0 +1,158 @@
+{
+  "data": [
+    {
+      "data": {
+        "stringId": 111,
+        "text": "محفظتك"
+      }
+    },
+    {
+      "data": {
+        "stringId": 112,
+        "text": "مزرعة"
+      }
+    },
+    {
+      "data": {
+        "stringId": 113,
+        "text": "تصويت"
+      }
+    },
+    {
+      "data": {
+        "stringId": 116,
+        "text": "تبادل"
+      }
+    },
+    {
+      "data": {
+        "stringId": 117,
+        "text": "FOC رصيدك في "
+      }
+    },
+    {
+      "data": {
+        "stringId": 118,
+        "text": "HecoScan عرض على "
+      }
+    },
+    {
+      "data": {
+        "stringId": 180,
+        "text": "اختر العملة"
+      }
+    },
+    {
+      "data": {
+        "stringId": 182,
+        "text": "تبديل"
+      }
+    },
+    {
+      "data": {
+        "stringId": 184,
+        "text": "السيولة"
+      }
+    },
+    {
+      "data": {
+        "stringId": 186,
+        "text": "اختر رمز"
+      }
+    },
+    {
+      "data": {
+        "stringId": 119,
+        "text": "مخرج"
+      }
+    },
+    {
+      "data": {
+        "stringId": 188,
+        "text": "اسم الرمز"
+      }
+    },
+    {
+      "data": {
+        "stringId": 190,
+        "text": "إعدادات المعاملات"
+      }
+    },
+    {
+      "data": {
+        "stringId": 192,
+        "text": "إعدادات الواجهة"
+      }
+    },
+    {
+      "data": {
+        "stringId": 194,
+        "text": "تبديل وضع الصوت"
+      }
+    },
+    {
+      "data": {
+        "stringId": 196,
+        "text": "تحمل الانزلاق"
+      }
+    },
+    {
+      "data": {
+        "stringId": 198,
+        "text": "الموعد النهائي للصفقة"
+      }
+    },
+    {
+      "data": {
+        "stringId": 202,
+        "text": "أضف السيولة"
+      }
+    },
+    {
+      "data": {
+        "stringId": 204,
+        "text": "السيولة الخاصة بك"
+      }
+    },
+    {
+      "data": {
+        "stringId": 206,
+        "text": "لا توجد سيولة."
+      }
+    },
+    {
+      "data": {
+        "stringId": 210,
+        "text": "أدخل مبلغًا"
+      }
+    },
+    {
+      "data": {
+        "stringId": 218,
+        "text": "ألا ترى تجمع انضممت إليه؟"
+      }
+    },
+    {
+      "data": {
+        "stringId": 220,
+        "text": "قم باستيراده. "
+      }
+    },
+    {
+      "data": {
+        "stringId": 222,
+        "text": "من عند"
+      }
+    },
+    {
+      "data": {
+        "stringId": 224,
+        "text": "ل"
+      }
+    }
+  ],
+  "pagination": {
+    "offset": 0,
+    "limit": 200
+  }
+}

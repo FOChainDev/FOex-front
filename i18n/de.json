@@ -1,0 +1,158 @@
+{
+  "data": [
+    {
+      "data": {
+        "stringId": 111,
+        "text": "Deine Geldbörse"
+      }
+    },
+    {
+      "data": {
+        "stringId": 112,
+        "text": "Bauernhof"
+      }
+    },
+    {
+      "data": {
+        "stringId": 113,
+        "text": "Abstimmung"
+      }
+    },
+    {
+      "data": {
+        "stringId": 116,
+        "text": "Austausch"
+      }
+    },
+    {
+      "data": {
+        "stringId": 117,
+        "text": "Ihr FOC-Guthaben"
+      }
+    },
+    {
+      "data": {
+        "stringId": 118,
+        "text": "Ansicht auf HecoScan"
+      }
+    },
+    {
+      "data": {
+        "stringId": 180,
+        "text": "Wählen Sie eine Währung"
+      }
+    },
+    {
+      "data": {
+        "stringId": 182,
+        "text": "Tauschen"
+      }
+    },
+    {
+      "data": {
+        "stringId": 184,
+        "text": "Liquidität"
+      }
+    },
+    {
+      "data": {
+        "stringId": 186,
+        "text": "Wählen Sie ein Token"
+      }
+    },
+    {
+      "data": {
+        "stringId": 119,
+        "text": "Ausgang"
+      }
+    },
+    {
+      "data": {
+        "stringId": 188,
+        "text": "Token Name"
+      }
+    },
+    {
+      "data": {
+        "stringId": 190,
+        "text": "Transaktionseinstellungen"
+      }
+    },
+    {
+      "data": {
+        "stringId": 192,
+        "text": "Schnittstelleneinstellungen"
+      }
+    },
+    {
+      "data": {
+        "stringId": 194,
+        "text": "Audiomodus umschalten"
+      }
+    },
+    {
+      "data": {
+        "stringId": 196,
+        "text": "Schlupftoleranz"
+      }
+    },
+    {
+      "data": {
+        "stringId": 198,
+        "text": "Transaktionsfrist"
+      }
+    },
+    {
+      "data": {
+        "stringId": 202,
+        "text": "Liquidität hinzufügen"
+      }
+    },
+    {
+      "data": {
+        "stringId": 204,
+        "text": "Ihre Liquidität"
+      }
+    },
+    {
+      "data": {
+        "stringId": 206,
+        "text": "Keine Liquidität gefunden."
+      }
+    },
+    {
+      "data": {
+        "stringId": 210,
+        "text": "Geben Sie einen Betrag ein"
+      }
+    },
+    {
+      "data": {
+        "stringId": 218,
+        "text": "Sie sehen keinen Pool, dem Sie beigetreten sind?"
+      }
+    },
+    {
+      "data": {
+        "stringId": 220,
+        "text": "Importieren Sie es."
+      }
+    },
+    {
+      "data": {
+        "stringId": 222,
+        "text": "Von"
+      }
+    },
+    {
+      "data": {
+        "stringId": 224,
+        "text": "Zu"
+      }
+    }
+  ],
+  "pagination": {
+    "offset": 0,
+    "limit": 200
+  }
+}

@@ -1,0 +1,158 @@
+{
+  "data": [
+    {
+      "data": {
+        "stringId": 111,
+        "text": "La vostra cartera"
+      }
+    },
+    {
+      "data": {
+        "stringId": 112,
+        "text": "Granja"
+      }
+    },
+    {
+      "data": {
+        "stringId": 113,
+        "text": "Vota"
+      }
+    },
+    {
+      "data": {
+        "stringId": 116,
+        "text": "Intercanvi"
+      }
+    },
+    {
+      "data": {
+        "stringId": 117,
+        "text": "El vostre saldo FOC"
+      }
+    },
+    {
+      "data": {
+        "stringId": 118,
+        "text": "Veure a HecoScan"
+      }
+    },
+    {
+      "data": {
+        "stringId": 180,
+        "text": "Trieu una moneda"
+      }
+    },
+    {
+      "data": {
+        "stringId": 182,
+        "text": "Intercanvi"
+      }
+    },
+    {
+      "data": {
+        "stringId": 184,
+        "text": "Liquiditat"
+      }
+    },
+    {
+      "data": {
+        "stringId": 186,
+        "text": "Trieu un testimoni"
+      }
+    },
+    {
+      "data": {
+        "stringId": 119,
+        "text": "Surt"
+      }
+    },
+    {
+      "data": {
+        "stringId": 188,
+        "text": "Nom del testimoni"
+      }
+    },
+    {
+      "data": {
+        "stringId": 190,
+        "text": "Configuració de transaccions"
+      }
+    },
+    {
+      "data": {
+        "stringId": 192,
+        "text": "Configuració de la interfície"
+      }
+    },
+    {
+      "data": {
+        "stringId": 194,
+        "text": "Commuta el mode d'àudio"
+      }
+    },
+    {
+      "data": {
+        "stringId": 196,
+        "text": "Tolerància al lliscament"
+      }
+    },
+    {
+      "data": {
+        "stringId": 198,
+        "text": "Termini de transacció"
+      }
+    },
+    {
+      "data": {
+        "stringId": 202,
+        "text": "Afegiu liquiditat"
+      }
+    },
+    {
+      "data": {
+        "stringId": 204,
+        "text": "La vostra liquiditat"
+      }
+    },
+    {
+      "data": {
+        "stringId": 206,
+        "text": "No s'ha trobat cap liquiditat."
+      }
+    },
+    {
+      "data": {
+        "stringId": 210,
+        "text": "Introduïu un import"
+      }
+    },
+    {
+      "data": {
+        "stringId": 218,
+        "text": "No veieu cap grup al qual us heu unit?"
+      }
+    },
+    {
+      "data": {
+        "stringId": 220,
+        "text": "Importeu-lo."
+      }
+    },
+    {
+      "data": {
+        "stringId": 222,
+        "text": "Des de"
+      }
+    },
+    {
+      "data": {
+        "stringId": 224,
+        "text": "Per a"
+      }
+    }
+  ],
+  "pagination": {
+    "offset": 0,
+    "limit": 200
+  }
+}

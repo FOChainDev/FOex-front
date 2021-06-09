@@ -1,0 +1,158 @@
+{
+  "data": [
+    {
+      "data": {
+        "stringId": 111,
+        "text": "Il tuo portafoglio"
+      }
+    },
+    {
+      "data": {
+        "stringId": 112,
+        "text": "Azienda agricola"
+      }
+    },
+    {
+      "data": {
+        "stringId": 113,
+        "text": "Votazione"
+      }
+    },
+    {
+      "data": {
+        "stringId": 116,
+        "text": "Scambio"
+      }
+    },
+    {
+      "data": {
+        "stringId": 117,
+        "text": "Il tuo equilibrio FOC"
+      }
+    },
+    {
+      "data": {
+        "stringId": 118,
+        "text": "Visualizza su HecoScan"
+      }
+    },
+    {
+      "data": {
+        "stringId": 180,
+        "text": "Scegli una valuta"
+      }
+    },
+    {
+      "data": {
+        "stringId": 182,
+        "text": "Scambiare"
+      }
+    },
+    {
+      "data": {
+        "stringId": 184,
+        "text": "Liquidità"
+      }
+    },
+    {
+      "data": {
+        "stringId": 186,
+        "text": "Scegli un token"
+      }
+    },
+    {
+      "data": {
+        "stringId": 119,
+        "text": "Uscita"
+      }
+    },
+    {
+      "data": {
+        "stringId": 188,
+        "text": "Nome token"
+      }
+    },
+    {
+      "data": {
+        "stringId": 190,
+        "text": "Impostazioni di transazione"
+      }
+    },
+    {
+      "data": {
+        "stringId": 192,
+        "text": "Impostazioni dell'interfaccia"
+      }
+    },
+    {
+      "data": {
+        "stringId": 194,
+        "text": "Attiva / disattiva la modalità audio"
+      }
+    },
+    {
+      "data": {
+        "stringId": 196,
+        "text": "Tolleranza allo slittamento"
+      }
+    },
+    {
+      "data": {
+        "stringId": 198,
+        "text": "Scadenza della transazione"
+      }
+    },
+    {
+      "data": {
+        "stringId": 202,
+        "text": "Aggiungi liquidità"
+      }
+    },
+    {
+      "data": {
+        "stringId": 204,
+        "text": "La tua liquidità"
+      }
+    },
+    {
+      "data": {
+        "stringId": 206,
+        "text": "Nessuna liquidità trovata."
+      }
+    },
+    {
+      "data": {
+        "stringId": 210,
+        "text": "Immettere un importo"
+      }
+    },
+    {
+      "data": {
+        "stringId": 218,
+        "text": "Non vedi una piscina a cui ti sei iscritto?"
+      }
+    },
+    {
+      "data": {
+        "stringId": 220,
+        "text": "Importalo."
+      }
+    },
+    {
+      "data": {
+        "stringId": 222,
+        "text": "A partire dal"
+      }
+    },
+    {
+      "data": {
+        "stringId": 224,
+        "text": "Per"
+      }
+    }
+  ],
+  "pagination": {
+    "offset": 0,
+    "limit": 200
+  }
+}

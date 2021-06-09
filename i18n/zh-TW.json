@@ -1,0 +1,158 @@
+{
+  "data": [
+    {
+      "data": {
+        "stringId": 111,
+        "text": "你的錢包"
+      }
+    },
+    {
+      "data": {
+        "stringId": 112,
+        "text": "農場"
+      }
+    },
+    {
+      "data": {
+        "stringId": 113,
+        "text": "投票"
+      }
+    },
+    {
+      "data": {
+        "stringId": 116,
+        "text": "兌換"
+      }
+    },
+    {
+      "data": {
+        "stringId": 117,
+        "text": "你的FOC餘額"
+      }
+    },
+    {
+      "data": {
+        "stringId": 118,
+        "text": "在 HecoScan 查看"
+      }
+    },
+    {
+      "data": {
+        "stringId": 180,
+        "text": "選擇一個代幣"
+      }
+    },
+    {
+      "data": {
+        "stringId": 182,
+        "text": "兌換"
+      }
+    },
+    {
+      "data": {
+        "stringId": 184,
+        "text": "流動池"
+      }
+    },
+    {
+      "data": {
+        "stringId": 186,
+        "text": "選擇一個代幣"
+      }
+    },
+    {
+      "data": {
+        "stringId": 119,
+        "text": "退出"
+      }
+    },
+    {
+      "data": {
+        "stringId": 188,
+        "text": "代幣名稱"
+      }
+    },
+    {
+      "data": {
+        "stringId": 190,
+        "text": "交易設置"
+      }
+    },
+    {
+      "data": {
+        "stringId": 192,
+        "text": "界面設置"
+      }
+    },
+    {
+      "data": {
+        "stringId": 194,
+        "text": "打開音頻"
+      }
+    },
+    {
+      "data": {
+        "stringId": 196,
+        "text": "滑點忍受"
+      }
+    },
+    {
+      "data": {
+        "stringId": 198,
+        "text": "交易截止時間"
+      }
+    },
+    {
+      "data": {
+        "stringId": 202,
+        "text": "增加流動性"
+      }
+    },
+    {
+      "data": {
+        "stringId": 204,
+        "text": "你的流動性"
+      }
+    },
+    {
+      "data": {
+        "stringId": 206,
+        "text": "沒有找到流動性"
+      }
+    },
+    {
+      "data": {
+        "stringId": 210,
+        "text": "輸入一個數量"
+      }
+    },
+    {
+      "data": {
+        "stringId": 218,
+        "text": "沒有看到你進入的池子?"
+      }
+    },
+    {
+      "data": {
+        "stringId": 220,
+        "text": "導入"
+      }
+    },
+    {
+      "data": {
+        "stringId": 222,
+        "text": "從"
+      }
+    },
+    {
+      "data": {
+        "stringId": 224,
+        "text": "到"
+      }
+    }
+  ],
+  "pagination": {
+    "offset": 0,
+    "limit": 200
+  }
+}

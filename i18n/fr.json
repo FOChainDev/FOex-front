@@ -1,0 +1,158 @@
+{
+  "data": [
+    {
+      "data": {
+        "stringId": 111,
+        "text": "Ton portefeuille"
+      }
+    },
+    {
+      "data": {
+        "stringId": 112,
+        "text": "Cultiver"
+      }
+    },
+    {
+      "data": {
+        "stringId": 113,
+        "text": "Vote"
+      }
+    },
+    {
+      "data": {
+        "stringId": 116,
+        "text": "Échange"
+      }
+    },
+    {
+      "data": {
+        "stringId": 117,
+        "text": "Votre solde FOC"
+      }
+    },
+    {
+      "data": {
+        "stringId": 118,
+        "text": "Voir sur HecoScan"
+      }
+    },
+    {
+      "data": {
+        "stringId": 180,
+        "text": "Choisissez une devise"
+      }
+    },
+    {
+      "data": {
+        "stringId": 182,
+        "text": "Échanger"
+      }
+    },
+    {
+      "data": {
+        "stringId": 184,
+        "text": "Liquidité"
+      }
+    },
+    {
+      "data": {
+        "stringId": 186,
+        "text": "Choisissez un jeton"
+      }
+    },
+    {
+      "data": {
+        "stringId": 119,
+        "text": "Sortir"
+      }
+    },
+    {
+      "data": {
+        "stringId": 188,
+        "text": "Nom du jeton"
+      }
+    },
+    {
+      "data": {
+        "stringId": 190,
+        "text": "Paramètres de transaction"
+      }
+    },
+    {
+      "data": {
+        "stringId": 192,
+        "text": "Paramètres d'interface"
+      }
+    },
+    {
+      "data": {
+        "stringId": 194,
+        "text": "Basculer le mode audio"
+      }
+    },
+    {
+      "data": {
+        "stringId": 196,
+        "text": "Tolérance de glissement"
+      }
+    },
+    {
+      "data": {
+        "stringId": 198,
+        "text": "Date limite de transaction"
+      }
+    },
+    {
+      "data": {
+        "stringId": 202,
+        "text": "Ajouter de la liquidité"
+      }
+    },
+    {
+      "data": {
+        "stringId": 204,
+        "text": "Votre liquidité"
+      }
+    },
+    {
+      "data": {
+        "stringId": 206,
+        "text": "Aucune liquidité trouvée."
+      }
+    },
+    {
+      "data": {
+        "stringId": 210,
+        "text": "Entrez un montant"
+      }
+    },
+    {
+      "data": {
+        "stringId": 218,
+        "text": "Vous ne voyez pas une piscine que vous avez rejoint?"
+      }
+    },
+    {
+      "data": {
+        "stringId": 220,
+        "text": "Importez-le."
+      }
+    },
+    {
+      "data": {
+        "stringId": 222,
+        "text": "De"
+      }
+    },
+    {
+      "data": {
+        "stringId": 224,
+        "text": "À"
+      }
+    }
+  ],
+  "pagination": {
+    "offset": 0,
+    "limit": 200
+  }
+}

@@ -1,0 +1,158 @@
+{
+  "data": [
+    {
+      "data": {
+        "stringId": 111,
+        "text": "Dompetmu"
+      }
+    },
+    {
+      "data": {
+        "stringId": 112,
+        "text": "Tanah pertanian"
+      }
+    },
+    {
+      "data": {
+        "stringId": 113,
+        "text": "Pilih"
+      }
+    },
+    {
+      "data": {
+        "stringId": 116,
+        "text": "Bertukar"
+      }
+    },
+    {
+      "data": {
+        "stringId": 117,
+        "text": "Saldo FOC Anda"
+      }
+    },
+    {
+      "data": {
+        "stringId": 118,
+        "text": "Lihat di HecoScan"
+      }
+    },
+    {
+      "data": {
+        "stringId": 180,
+        "text": "Pilih Mata Uang"
+      }
+    },
+    {
+      "data": {
+        "stringId": 182,
+        "text": "Menukar"
+      }
+    },
+    {
+      "data": {
+        "stringId": 184,
+        "text": "Likuiditas"
+      }
+    },
+    {
+      "data": {
+        "stringId": 186,
+        "text": "Pilih Token"
+      }
+    },
+    {
+      "data": {
+        "stringId": 119,
+        "text": "keluar"
+      }
+    },
+    {
+      "data": {
+        "stringId": 188,
+        "text": "Nama Token"
+      }
+    },
+    {
+      "data": {
+        "stringId": 190,
+        "text": "Pengaturan Transaksi"
+      }
+    },
+    {
+      "data": {
+        "stringId": 192,
+        "text": "Pengaturan Antarmuka"
+      }
+    },
+    {
+      "data": {
+        "stringId": 194,
+        "text": "Alihkan Mode Audio"
+      }
+    },
+    {
+      "data": {
+        "stringId": 196,
+        "text": "Toleransi Selip"
+      }
+    },
+    {
+      "data": {
+        "stringId": 198,
+        "text": "Batas waktu transaksi"
+      }
+    },
+    {
+      "data": {
+        "stringId": 202,
+        "text": "Tambahkan Likuiditas"
+      }
+    },
+    {
+      "data": {
+        "stringId": 204,
+        "text": "Likuiditas Anda"
+      }
+    },
+    {
+      "data": {
+        "stringId": 206,
+        "text": "Likuiditas tidak ditemukan."
+      }
+    },
+    {
+      "data": {
+        "stringId": 210,
+        "text": "Masukkan jumlah"
+      }
+    },
+    {
+      "data": {
+        "stringId": 218,
+        "text": "Tidak melihat pangkalan yang Anda ikuti?"
+      }
+    },
+    {
+      "data": {
+        "stringId": 220,
+        "text": "Impor itu."
+      }
+    },
+    {
+      "data": {
+        "stringId": 222,
+        "text": "Dari"
+      }
+    },
+    {
+      "data": {
+        "stringId": 224,
+        "text": "Untuk"
+      }
+    }
+  ],
+  "pagination": {
+    "offset": 0,
+    "limit": 200
+  }
+}

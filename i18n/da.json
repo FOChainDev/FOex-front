@@ -1,0 +1,158 @@
+{
+  "data": [
+    {
+      "data": {
+        "stringId": 111,
+        "text": "Din tegnebog"
+      }
+    },
+    {
+      "data": {
+        "stringId": 112,
+        "text": "Gård"
+      }
+    },
+    {
+      "data": {
+        "stringId": 113,
+        "text": "Hlasování"
+      }
+    },
+    {
+      "data": {
+        "stringId": 116,
+        "text": "Udveksling"
+      }
+    },
+    {
+      "data": {
+        "stringId": 117,
+        "text": "Din FOC-balance"
+      }
+    },
+    {
+      "data": {
+        "stringId": 118,
+        "text": "Visning på HecoScan"
+      }
+    },
+    {
+      "data": {
+        "stringId": 180,
+        "text": "Vælg en valuta"
+      }
+    },
+    {
+      "data": {
+        "stringId": 182,
+        "text": "Bytte rundt"
+      }
+    },
+    {
+      "data": {
+        "stringId": 184,
+        "text": "Likviditet"
+      }
+    },
+    {
+      "data": {
+        "stringId": 186,
+        "text": "Vælg et token"
+      }
+    },
+    {
+      "data": {
+        "stringId": 119,
+        "text": "Afslut"
+      }
+    },
+    {
+      "data": {
+        "stringId": 188,
+        "text": "Token navn"
+      }
+    },
+    {
+      "data": {
+        "stringId": 190,
+        "text": "Transaktionsindstillinger"
+      }
+    },
+    {
+      "data": {
+        "stringId": 192,
+        "text": "Interfaceindstillinger"
+      }
+    },
+    {
+      "data": {
+        "stringId": 194,
+        "text": "Skift lydtilstand"
+      }
+    },
+    {
+      "data": {
+        "stringId": 196,
+        "text": "Glidningstolerance"
+      }
+    },
+    {
+      "data": {
+        "stringId": 198,
+        "text": "Transaktionsfrist"
+      }
+    },
+    {
+      "data": {
+        "stringId": 202,
+        "text": "Tilføj likviditet"
+      }
+    },
+    {
+      "data": {
+        "stringId": 204,
+        "text": "Din likviditet"
+      }
+    },
+    {
+      "data": {
+        "stringId": 206,
+        "text": "Ingen likviditet fundet."
+      }
+    },
+    {
+      "data": {
+        "stringId": 210,
+        "text": "Indtast et beløb"
+      }
+    },
+    {
+      "data": {
+        "stringId": 218,
+        "text": "Kan du ikke se en pool, du har tilsluttet dig?"
+      }
+    },
+    {
+      "data": {
+        "stringId": 220,
+        "text": "Importer det."
+      }
+    },
+    {
+      "data": {
+        "stringId": 222,
+        "text": "Fra"
+      }
+    },
+    {
+      "data": {
+        "stringId": 224,
+        "text": "Til"
+      }
+    }
+  ],
+  "pagination": {
+    "offset": 0,
+    "limit": 200
+  }
+}

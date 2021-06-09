@@ -1,0 +1,158 @@
+{
+  "data": [
+    {
+      "data": {
+        "stringId": 111,
+        "text": "A pénztárcád"
+      }
+    },
+    {
+      "data": {
+        "stringId": 112,
+        "text": "Farm"
+      }
+    },
+    {
+      "data": {
+        "stringId": 113,
+        "text": "Szavazás"
+      }
+    },
+    {
+      "data": {
+        "stringId": 116,
+        "text": "Csere"
+      }
+    },
+    {
+      "data": {
+        "stringId": 117,
+        "text": "FOC-egyenleged"
+      }
+    },
+    {
+      "data": {
+        "stringId": 118,
+        "text": "Nézet a HecoScan oldalon"
+      }
+    },
+    {
+      "data": {
+        "stringId": 180,
+        "text": "Válasszon egy pénznemet"
+      }
+    },
+    {
+      "data": {
+        "stringId": 182,
+        "text": "Csere"
+      }
+    },
+    {
+      "data": {
+        "stringId": 184,
+        "text": "Likviditás"
+      }
+    },
+    {
+      "data": {
+        "stringId": 186,
+        "text": "Válasszon egy tokent"
+      }
+    },
+    {
+      "data": {
+        "stringId": 119,
+        "text": "Kijárat"
+      }
+    },
+    {
+      "data": {
+        "stringId": 188,
+        "text": "Token neve"
+      }
+    },
+    {
+      "data": {
+        "stringId": 190,
+        "text": "Tranzakció beállításai"
+      }
+    },
+    {
+      "data": {
+        "stringId": 192,
+        "text": "Interfész beállításai"
+      }
+    },
+    {
+      "data": {
+        "stringId": 194,
+        "text": "Váltás az Audio módra"
+      }
+    },
+    {
+      "data": {
+        "stringId": 196,
+        "text": "Csúszási tolerancia"
+      }
+    },
+    {
+      "data": {
+        "stringId": 198,
+        "text": "Tranzakciós határidő"
+      }
+    },
+    {
+      "data": {
+        "stringId": 202,
+        "text": "Adja hozzá a Likviditást"
+      }
+    },
+    {
+      "data": {
+        "stringId": 204,
+        "text": "A likviditásod"
+      }
+    },
+    {
+      "data": {
+        "stringId": 206,
+        "text": "Nem található likviditás."
+      }
+    },
+    {
+      "data": {
+        "stringId": 210,
+        "text": "Adjon meg egy összeget"
+      }
+    },
+    {
+      "data": {
+        "stringId": 218,
+        "text": "Nem látja a medencét, amelyhez csatlakozott?"
+      }
+    },
+    {
+      "data": {
+        "stringId": 220,
+        "text": "Importálja."
+      }
+    },
+    {
+      "data": {
+        "stringId": 222,
+        "text": "Tól től"
+      }
+    },
+    {
+      "data": {
+        "stringId": 224,
+        "text": "Nak nek"
+      }
+    }
+  ],
+  "pagination": {
+    "offset": 0,
+    "limit": 200
+  }
+}

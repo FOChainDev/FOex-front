@@ -1,0 +1,158 @@
+{
+  "data": [
+    {
+      "data": {
+        "stringId": 111,
+        "text": "Sua carteira"
+      }
+    },
+    {
+      "data": {
+        "stringId": 112,
+        "text": "Fazenda"
+      }
+    },
+    {
+      "data": {
+        "stringId": 113,
+        "text": "Voto"
+      }
+    },
+    {
+      "data": {
+        "stringId": 116,
+        "text": "Intercâmbio"
+      }
+    },
+    {
+      "data": {
+        "stringId": 117,
+        "text": "Seu saldo FOC"
+      }
+    },
+    {
+      "data": {
+        "stringId": 118,
+        "text": "Ver no HecoScan"
+      }
+    },
+    {
+      "data": {
+        "stringId": 180,
+        "text": "Escolha uma moeda"
+      }
+    },
+    {
+      "data": {
+        "stringId": 182,
+        "text": "Trocar"
+      }
+    },
+    {
+      "data": {
+        "stringId": 184,
+        "text": "Liquidez"
+      }
+    },
+    {
+      "data": {
+        "stringId": 186,
+        "text": "Escolha um token"
+      }
+    },
+    {
+      "data": {
+        "stringId": 119,
+        "text": "Saída"
+      }
+    },
+    {
+      "data": {
+        "stringId": 188,
+        "text": "Nome do token"
+      }
+    },
+    {
+      "data": {
+        "stringId": 190,
+        "text": "Configurações de transação"
+      }
+    },
+    {
+      "data": {
+        "stringId": 192,
+        "text": "Configurações de interface"
+      }
+    },
+    {
+      "data": {
+        "stringId": 194,
+        "text": "Alternar modo de áudio"
+      }
+    },
+    {
+      "data": {
+        "stringId": 196,
+        "text": "Tolerância de deslizamento"
+      }
+    },
+    {
+      "data": {
+        "stringId": 198,
+        "text": "Prazo de transação"
+      }
+    },
+    {
+      "data": {
+        "stringId": 202,
+        "text": "Adicionar Liquidez"
+      }
+    },
+    {
+      "data": {
+        "stringId": 204,
+        "text": "Sua Liquidez"
+      }
+    },
+    {
+      "data": {
+        "stringId": 206,
+        "text": "Nenhuma liquidez encontrada."
+      }
+    },
+    {
+      "data": {
+        "stringId": 210,
+        "text": "Insira um valor"
+      }
+    },
+    {
+      "data": {
+        "stringId": 218,
+        "text": "Não vê uma piscina da qual você entrou?"
+      }
+    },
+    {
+      "data": {
+        "stringId": 220,
+        "text": "Importe-o."
+      }
+    },
+    {
+      "data": {
+        "stringId": 222,
+        "text": "A partir de"
+      }
+    },
+    {
+      "data": {
+        "stringId": 224,
+        "text": "Para"
+      }
+    }
+  ],
+  "pagination": {
+    "offset": 0,
+    "limit": 200
+  }
+}

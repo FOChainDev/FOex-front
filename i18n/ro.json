@@ -1,0 +1,158 @@
+{
+  "data": [
+    {
+      "data": {
+        "stringId": 111,
+        "text": "Portofelul tau"
+      }
+    },
+    {
+      "data": {
+        "stringId": 112,
+        "text": "Fermă"
+      }
+    },
+    {
+      "data": {
+        "stringId": 113,
+        "text": "Vot"
+      }
+    },
+    {
+      "data": {
+        "stringId": 116,
+        "text": "schimb valutar"
+      }
+    },
+    {
+      "data": {
+        "stringId": 117,
+        "text": "Soldul dvs. FOC"
+      }
+    },
+    {
+      "data": {
+        "stringId": 118,
+        "text": "Vizualizare pe HecoScan"
+      }
+    },
+    {
+      "data": {
+        "stringId": 180,
+        "text": "Alegeți o monedă"
+      }
+    },
+    {
+      "data": {
+        "stringId": 182,
+        "text": "Swap"
+      }
+    },
+    {
+      "data": {
+        "stringId": 184,
+        "text": "Lichiditate"
+      }
+    },
+    {
+      "data": {
+        "stringId": 186,
+        "text": "Alegeți un indicativ"
+      }
+    },
+    {
+      "data": {
+        "stringId": 119,
+        "text": "Ieșire"
+      }
+    },
+    {
+      "data": {
+        "stringId": 188,
+        "text": "Numele jetonului"
+      }
+    },
+    {
+      "data": {
+        "stringId": 190,
+        "text": "Setări tranzacție"
+      }
+    },
+    {
+      "data": {
+        "stringId": 192,
+        "text": "Setări interfață"
+      }
+    },
+    {
+      "data": {
+        "stringId": 194,
+        "text": "Comutați modul audio"
+      }
+    },
+    {
+      "data": {
+        "stringId": 196,
+        "text": "Toleranță la alunecare"
+      }
+    },
+    {
+      "data": {
+        "stringId": 198,
+        "text": "Termen limită de tranzacție"
+      }
+    },
+    {
+      "data": {
+        "stringId": 202,
+        "text": "Adăugați lichiditate"
+      }
+    },
+    {
+      "data": {
+        "stringId": 204,
+        "text": "Lichiditatea ta"
+      }
+    },
+    {
+      "data": {
+        "stringId": 206,
+        "text": "Nu s-a găsit lichiditate."
+      }
+    },
+    {
+      "data": {
+        "stringId": 210,
+        "text": "Introduceți o sumă"
+      }
+    },
+    {
+      "data": {
+        "stringId": 218,
+        "text": "Nu vedeți o piscină la care v-ați alăturat?"
+      }
+    },
+    {
+      "data": {
+        "stringId": 220,
+        "text": "Importați-l."
+      }
+    },
+    {
+      "data": {
+        "stringId": 222,
+        "text": "Din"
+      }
+    },
+    {
+      "data": {
+        "stringId": 224,
+        "text": "La"
+      }
+    }
+  ],
+  "pagination": {
+    "offset": 0,
+    "limit": 200
+  }
+}

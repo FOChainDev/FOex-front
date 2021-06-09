@@ -1,0 +1,158 @@
+{
+  "data": [
+    {
+      "data": {
+        "stringId": 111,
+        "text": "आपका बटुआ"
+      }
+    },
+    {
+      "data": {
+        "stringId": 112,
+        "text": "खेत"
+      }
+    },
+    {
+      "data": {
+        "stringId": 113,
+        "text": "वोट"
+      }
+    },
+    {
+      "data": {
+        "stringId": 116,
+        "text": "अदला बदली"
+      }
+    },
+    {
+      "data": {
+        "stringId": 117,
+        "text": "आपका FOC बैलेंस"
+      }
+    },
+    {
+      "data": {
+        "stringId": 118,
+        "text": "हेकोस्कैन पर देखें"
+      }
+    },
+    {
+      "data": {
+        "stringId": 180,
+        "text": "एक मुद्रा चुनें"
+      }
+    },
+    {
+      "data": {
+        "stringId": 182,
+        "text": "विनिमय"
+      }
+    },
+    {
+      "data": {
+        "stringId": 184,
+        "text": "लिक्विडिटी"
+      }
+    },
+    {
+      "data": {
+        "stringId": 186,
+        "text": "एक टोकन चुनें"
+      }
+    },
+    {
+      "data": {
+        "stringId": 119,
+        "text": "बाहर जाएं"
+      }
+    },
+    {
+      "data": {
+        "stringId": 188,
+        "text": "टोकन नाम"
+      }
+    },
+    {
+      "data": {
+        "stringId": 190,
+        "text": "लेनदेन सेटिंग्स"
+      }
+    },
+    {
+      "data": {
+        "stringId": 192,
+        "text": "इंटरफ़ेस सेटिंग्स"
+      }
+    },
+    {
+      "data": {
+        "stringId": 194,
+        "text": "ऑडियो मोड टॉगल करें"
+      }
+    },
+    {
+      "data": {
+        "stringId": 196,
+        "text": "स्लिपेज टॉलरेंस"
+      }
+    },
+    {
+      "data": {
+        "stringId": 198,
+        "text": "लेन-देन की समय सीमा"
+      }
+    },
+    {
+      "data": {
+        "stringId": 202,
+        "text": "तरलता जोड़ें"
+      }
+    },
+    {
+      "data": {
+        "stringId": 204,
+        "text": "आपकी तरलता"
+      }
+    },
+    {
+      "data": {
+        "stringId": 206,
+        "text": "कोई तरलता नहीं मिली।"
+      }
+    },
+    {
+      "data": {
+        "stringId": 210,
+        "text": "एक राशि दर्ज करें"
+      }
+    },
+    {
+      "data": {
+        "stringId": 218,
+        "text": "क्या आप इसमें शामिल नहीं हुए हैं?"
+      }
+    },
+    {
+      "data": {
+        "stringId": 220,
+        "text": "इसे आयात करें।"
+      }
+    },
+    {
+      "data": {
+        "stringId": 222,
+        "text": "से"
+      }
+    },
+    {
+      "data": {
+        "stringId": 224,
+        "text": "सेवा"
+      }
+    }
+  ],
+  "pagination": {
+    "offset": 0,
+    "limit": 200
+  }
+}

@@ -1,0 +1,159 @@
+
+{
+  "data": [
+    {
+      "data": {
+        "stringId": 111,
+        "text": "Din plånbok"
+      }
+    },
+    {
+      "data": {
+        "stringId": 112,
+        "text": "Odla"
+      }
+    },
+    {
+      "data": {
+        "stringId": 113,
+        "text": "Rösta"
+      }
+    },
+    {
+      "data": {
+        "stringId": 116,
+        "text": "Utbyta"
+      }
+    },
+    {
+      "data": {
+        "stringId": 117,
+        "text": "Din FOC-saldo"
+      }
+    },
+    {
+      "data": {
+        "stringId": 118,
+        "text": "Visa på HecoScan"
+      }
+    },
+    {
+      "data": {
+        "stringId": 180,
+        "text": "Välj en valuta"
+      }
+    },
+    {
+      "data": {
+        "stringId": 182,
+        "text": "Byta"
+      }
+    },
+    {
+      "data": {
+        "stringId": 184,
+        "text": "Likviditet"
+      }
+    },
+    {
+      "data": {
+        "stringId": 186,
+        "text": "Välj en token"
+      }
+    },
+    {
+      "data": {
+        "stringId": 119,
+        "text": "Utgång"
+      }
+    },
+    {
+      "data": {
+        "stringId": 188,
+        "text": "Token Namn"
+      }
+    },
+    {
+      "data": {
+        "stringId": 190,
+        "text": "Transaktionsinställningar"
+      }
+    },
+    {
+      "data": {
+        "stringId": 192,
+        "text": "Gränssnittsinställningar"
+      }
+    },
+    {
+      "data": {
+        "stringId": 194,
+        "text": "Växla ljudläge"
+      }
+    },
+    {
+      "data": {
+        "stringId": 196,
+        "text": "Glidningstolerans"
+      }
+    },
+    {
+      "data": {
+        "stringId": 198,
+        "text": "Transaktionsfrist"
+      }
+    },
+    {
+      "data": {
+        "stringId": 202,
+        "text": "Tillsätt likviditet"
+      }
+    },
+    {
+      "data": {
+        "stringId": 204,
+        "text": "Din likviditet"
+      }
+    },
+    {
+      "data": {
+        "stringId": 206,
+        "text": "Ingen likviditet hittades."
+      }
+    },
+    {
+      "data": {
+        "stringId": 210,
+        "text": "Ange ett belopp"
+      }
+    },
+    {
+      "data": {
+        "stringId": 218,
+        "text": "Ser du inte en pool du gick med i?"
+      }
+    },
+    {
+      "data": {
+        "stringId": 220,
+        "text": "Importera den."
+      }
+    },
+    {
+      "data": {
+        "stringId": 222,
+        "text": "Från"
+      }
+    },
+    {
+      "data": {
+        "stringId": 224,
+        "text": "Till"
+      }
+    }
+  ],
+  "pagination": {
+    "offset": 0,
+    "limit": 200
+  }
+}

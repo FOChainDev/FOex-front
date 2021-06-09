@@ -1,0 +1,158 @@
+{
+  "data": [
+    {
+      "data": {
+        "stringId": 111,
+        "text": "Sinun lompakkosi"
+      }
+    },
+    {
+      "data": {
+        "stringId": 112,
+        "text": "Maatila"
+      }
+    },
+    {
+      "data": {
+        "stringId": 113,
+        "text": "Äänestys"
+      }
+    },
+    {
+      "data": {
+        "stringId": 116,
+        "text": "Vaihto"
+      }
+    },
+    {
+      "data": {
+        "stringId": 117,
+        "text": "FOC-saldosi"
+      }
+    },
+    {
+      "data": {
+        "stringId": 118,
+        "text": "Näkymä HecoScanilla"
+      }
+    },
+    {
+      "data": {
+        "stringId": 180,
+        "text": "Valitse valuutta"
+      }
+    },
+    {
+      "data": {
+        "stringId": 182,
+        "text": "Vaihtaa"
+      }
+    },
+    {
+      "data": {
+        "stringId": 184,
+        "text": "Likviditeetti"
+      }
+    },
+    {
+      "data": {
+        "stringId": 186,
+        "text": "Valitse tunnus"
+      }
+    },
+    {
+      "data": {
+        "stringId": 119,
+        "text": "Lopeta"
+      }
+    },
+    {
+      "data": {
+        "stringId": 188,
+        "text": "Tunnuksen nimi"
+      }
+    },
+    {
+      "data": {
+        "stringId": 190,
+        "text": "Tapahtuma-asetukset"
+      }
+    },
+    {
+      "data": {
+        "stringId": 192,
+        "text": "Liitännän asetukset"
+      }
+    },
+    {
+      "data": {
+        "stringId": 194,
+        "text": "Vaihda äänitila"
+      }
+    },
+    {
+      "data": {
+        "stringId": 196,
+        "text": "Liukastoleranssi"
+      }
+    },
+    {
+      "data": {
+        "stringId": 198,
+        "text": "Tapahtuman määräaika"
+      }
+    },
+    {
+      "data": {
+        "stringId": 202,
+        "text": "Lisää likviditeetti"
+      }
+    },
+    {
+      "data": {
+        "stringId": 204,
+        "text": "Maksuvalmius"
+      }
+    },
+    {
+      "data": {
+        "stringId": 206,
+        "text": "Likviditeettiä ei löytynyt."
+      }
+    },
+    {
+      "data": {
+        "stringId": 210,
+        "text": "Syötä summa"
+      }
+    },
+    {
+      "data": {
+        "stringId": 218,
+        "text": "Etkö näe uima-allasta, johon liityit?"
+      }
+    },
+    {
+      "data": {
+        "stringId": 220,
+        "text": "Tuo se."
+      }
+    },
+    {
+      "data": {
+        "stringId": 222,
+        "text": "Alkaen"
+      }
+    },
+    {
+      "data": {
+        "stringId": 224,
+        "text": "Vastaanottaja"
+      }
+    }
+  ],
+  "pagination": {
+    "offset": 0,
+    "limit": 200
+  }
+}

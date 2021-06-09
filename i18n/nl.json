@@ -1,0 +1,158 @@
+{
+  "data": [
+    {
+      "data": {
+        "stringId": 111,
+        "text": "Uw portemonnee"
+      }
+    },
+    {
+      "data": {
+        "stringId": 112,
+        "text": "Boerderij"
+      }
+    },
+    {
+      "data": {
+        "stringId": 113,
+        "text": "Stemmen"
+      }
+    },
+    {
+      "data": {
+        "stringId": 116,
+        "text": "Uitwisseling"
+      }
+    },
+    {
+      "data": {
+        "stringId": 117,
+        "text": "Uw FOC-balans"
+      }
+    },
+    {
+      "data": {
+        "stringId": 118,
+        "text": "Bekijk op HecoScan"
+      }
+    },
+    {
+      "data": {
+        "stringId": 180,
+        "text": "Kies een valuta"
+      }
+    },
+    {
+      "data": {
+        "stringId": 182,
+        "text": "Wissel"
+      }
+    },
+    {
+      "data": {
+        "stringId": 184,
+        "text": "Liquiditeit"
+      }
+    },
+    {
+      "data": {
+        "stringId": 186,
+        "text": "Kies een token"
+      }
+    },
+    {
+      "data": {
+        "stringId": 119,
+        "text": "Uitgang"
+      }
+    },
+    {
+      "data": {
+        "stringId": 188,
+        "text": "Token naam"
+      }
+    },
+    {
+      "data": {
+        "stringId": 190,
+        "text": "Transactie-instellingen"
+      }
+    },
+    {
+      "data": {
+        "stringId": 192,
+        "text": "Interface-instellingen"
+      }
+    },
+    {
+      "data": {
+        "stringId": 194,
+        "text": "Schakelen tussen audiomodus"
+      }
+    },
+    {
+      "data": {
+        "stringId": 196,
+        "text": "Slippage tolerantie"
+      }
+    },
+    {
+      "data": {
+        "stringId": 198,
+        "text": "Transactiedeadline"
+      }
+    },
+    {
+      "data": {
+        "stringId": 202,
+        "text": "Liquiditeit toevoegen"
+      }
+    },
+    {
+      "data": {
+        "stringId": 204,
+        "text": "Uw liquiditeit"
+      }
+    },
+    {
+      "data": {
+        "stringId": 206,
+        "text": "Geen liquiditeit gevonden."
+      }
+    },
+    {
+      "data": {
+        "stringId": 210,
+        "text": "Voer een bedrag in"
+      }
+    },
+    {
+      "data": {
+        "stringId": 218,
+        "text": "Zie je geen pool waar je lid van bent?"
+      }
+    },
+    {
+      "data": {
+        "stringId": 220,
+        "text": "Importeer het."
+      }
+    },
+    {
+      "data": {
+        "stringId": 222,
+        "text": "Van"
+      }
+    },
+    {
+      "data": {
+        "stringId": 224,
+        "text": "Naar"
+      }
+    }
+  ],
+  "pagination": {
+    "offset": 0,
+    "limit": 200
+  }
+}
